@@ -6,8 +6,7 @@
     "url": "./icons/nav-rail-1d641ea5.svg"
   },
   "screenshots": [
-    "./screenshots/nav-rail/navigation.jpg",
-    "./screenshots/nav-rail/customize.jpg"
+    "./screenshots/nav-rail/navigation.jpg"
   ],
   "overview": "./overview/nav-rail.md",
   "tags": [
